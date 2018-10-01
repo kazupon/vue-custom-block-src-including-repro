@@ -8,10 +8,4 @@ export default {
 }
 </script>
 
-<i18n>
-{
-  "en": {
-    "hello": "Hello i18n in SFC!"
-  }
-}
-</i18n>
+<i18n src="./en-US.json"></i18n>
